@@ -24,7 +24,7 @@ Techniques and libraries for creating layouts that work well on various devices 
 
 ## Demo
 
-See the live demo of the Wild-Oasis Quiz App: [Demo App](https://task-geek-labs.netlify.app/)
+See the live demo of the task App: [Demo App](https://task-geek-labs.netlify.app/)
 
 ## Contact
 
